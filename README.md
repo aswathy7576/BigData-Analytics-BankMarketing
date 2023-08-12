@@ -1,7 +1,7 @@
 # BigData-Analytics-BankMarketing PYSPARK AND TABLEAU
 
 
-TERM DEPOSIT
+#TERM DEPOSIT
 
 Term deposit is a deposit account type available in a financial institution where money is locked up for some fixed period of time.
 Term deposits are usually short-term deposits with maturities ranging from one month to a few years.
